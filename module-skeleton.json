@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-kpi-and-goals-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-kpi-and-goals",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-kpi-and-goals-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/kpi-and-goals.md",
+  "presentationPlan": "projects/accounting/nextjs/kpi-and-goals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
